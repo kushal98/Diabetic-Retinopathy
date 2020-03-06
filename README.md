@@ -1,6 +1,6 @@
 # Diabetic Retinopathy Classifier and Web App
 
-## Available at https://retinopathy-classifier.herokuapp.com
+## Available at 
 
 ## Details
 
